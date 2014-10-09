@@ -1,6 +1,6 @@
 {
   "name": "stream-blackhole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A silly writable stream that eats all data",
   "main": "index.js",
   "scripts": {
