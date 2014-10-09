@@ -11,3 +11,5 @@ function Blackhole (options) {
 Blackhole.object = function () {
   return new Blackhole({objectMode: true});
 }
+
+module.exports = Blackhole;
